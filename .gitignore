@@ -1,0 +1,17 @@
+# CMake build artifacts
+build/
+CMakeFiles/
+CMakeCache.txt
+CMakeScratch/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+compile_commands.json
+_deps/
+
+# compiled objects/binaries
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
