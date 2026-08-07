@@ -1,7 +1,9 @@
 #pragma once
+#include <string>
 
 namespace raindrops {
 
 // TODO: add your solution here
 
-}  // namespace raindrops
+std::string convert(int num);
+} // namespace raindrops
